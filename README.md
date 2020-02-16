@@ -7,10 +7,14 @@ Usage guidlines:
 
 needed frameworks
 
-1 : Ganache
+1 : Ganache 
+
 2 : Truffle
+
 3 : IPFS
+
 4 : MetaMask
+
 5 : php local server
 
 Running Mechanisms:
