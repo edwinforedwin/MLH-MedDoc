@@ -20,9 +20,14 @@ needed frameworks
 Running Mechanisms:
 
 1 : Open Ganache and configure with local host : 7545 server
+
+
 2 : Configure MetaMask using the menonomic that available in the Ganache
+
 3 : Run 'truffle compile' and 'truffle migrate' commands in the 'contracts' directory
+
 4 : run IPFS daemon for data back up
+
 5 : Run src files in the 'localhost:3000'
 
 Here goes the DApp of EMR !!!
