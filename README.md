@@ -1,5 +1,5 @@
 # MLH-MedDoc
-Medical data stored on blockchain | Ethereum | Smart Contracts | NodeJS
+Medical data stored on blockchain | Ethereum | Smart Contracts | NodeJS | Solidity
 
 Years of heavy regulation and bureaucratic inefficiency have slowed innovation for the medical records (EMRs).We now face a critical need of such innovation as personalization and data science prompt patients to engage in the details of their healthcare and restore agaency over their medical data. We introduce 'MEDDOC', a novel decentralized record management system to handlle EMR's
 
